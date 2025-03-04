@@ -1,6 +1,6 @@
 === WordGrade - Readability Analyzer ===
 Contributors: igmizo
-Tags: readability, editor, analysis, content, writing, accessibility
+Tags: readability, editor, analysis, content, writing, Flesch-Kincaid, SMOG
 Requires at least: 5.8
 Tested up to: 6.4
 Stable tag: 0.1.0
