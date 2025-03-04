@@ -22,7 +22,7 @@ A WordPress plugin that provides real-time readability analysis in the editor. W
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/yourusername/wordgrade/releases)
+1. Download the latest release from the [releases page](https://github.com/igmizo/wordgrade/releases)
 2. Upload the plugin to your WordPress site
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Start writing in the block editor and see your readability metrics in the sidebar
@@ -47,7 +47,7 @@ Alternatively, search for "WordGrade" in the WordPress plugin directory and inst
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wordgrade.git
+git clone https://github.com/igmizo/wordgrade.git
 cd wordgrade
 
 # Install dependencies
