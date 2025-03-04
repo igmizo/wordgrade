@@ -73,10 +73,10 @@ WordGrade uses debounced calculations and efficient algorithms to ensure minimal
 
 == Changelog ==
 
-= 1.0.0 =
-* Initial release
+= 0.1.0 =
+* Initial beta release
 
 == Upgrade Notice ==
 
-= 1.0.0 =
-Initial release of WordGrade. Install now to start improving your content's readability!
+= 0.1.0 =
+Initial beta release of WordGrade. Install now to start improving your content's readability!
