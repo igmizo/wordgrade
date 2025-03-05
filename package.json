@@ -1,6 +1,6 @@
 {
   "name": "wordgrade",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Analyze and improve your content's readability with real-time metrics and visual feedback.",
   "main": "build/index.js",
   "scripts": {
